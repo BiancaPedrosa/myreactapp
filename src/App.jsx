@@ -39,7 +39,7 @@ function App() {
      
       <div className="mini-calculator">
         <h1>Calculadora</h1>
-        <h4>by bpedrosa@ifsp.edu.br</h4>
+        <h4>by  Prof. Bianca</h4>
         </div>
       <div id="display">{currentNumber}</div>
       <div className="calculator-buttons">
